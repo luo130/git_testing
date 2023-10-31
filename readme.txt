@@ -9,4 +9,5 @@ Git 分支实际上是指向更改快照的指针。
 
 合并分支命令:
 
-git merge 
+git merge
+创建分支：git branch <分支名>
