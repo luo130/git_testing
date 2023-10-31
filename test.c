@@ -12,5 +12,8 @@ int main()
 
 int add(int x, int y)
 {
+    int a = 10l, b = 20;
+    int c = add(a, b);
+    printf("c: %d\n", c);
     return (x) + (y);
 }
