@@ -11,3 +11,5 @@ Git 分支实际上是指向更改快照的指针。
 
 git merge
 创建分支：git branch <分支名>
+删除分支：git branch -d <分支名>
+强制删除分支：git branch -D <分支名>
