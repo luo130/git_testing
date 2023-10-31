@@ -12,5 +12,6 @@ int main()
 
 int add(int x, int y)
 {
+    int a = 100;
     return (x) + (y);
 }
